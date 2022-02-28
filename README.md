@@ -27,3 +27,31 @@
        </section>
        <footer>zapoznaj się z filmikiem i daj znać, czy też tak uważasz!</footer>
     </body>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width", initial-scale=1.0">
+        <title>PINKYWORLD</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+       <DIV id="wrapper"></DIV>
+       <header>
+<img src="11.jpg" alt="singapur - header"/>
+       </header>
+       <nav>
+<a class="menu" href="pinkyworld.html">O mnie</a><a class="menu active" href="news.html">Moje podróże</a><a class="menu" href="inspo.html">Inspiracje</a><a class="menu" href="media.html">Social Media</a>
+       </nav>
+       <section>
+         <h2>  <p>Oto krótka fotorelacja z kilku moich podróży. </p></h2>
+
+
+             <p>Czy jesteś w stanie rozpoznać w jakich miejscach zostały zrobione zdjęcia?</p>
+<input type="radio" name="Wiek" value="tak">tak<br>
+<input type="radio" name="Wiek" value="nie">nie<br>
+
+<img src="strona kopia.jpg"/>
+       
+
+   
+    </body>
